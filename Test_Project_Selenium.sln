@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit_Test_Project_Selenium", "NUnit_Test_Project_Selenium\NUnit_Test_Project_Selenium.csproj", "{605A9458-0440-4064-BFF6-295D9B92E663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_POM", "Selenium_POM\Selenium_POM.csproj", "{D2458D5B-C465-4B30-BD55-499886D3CCF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605A9458-0440-4064-BFF6-295D9B92E663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605A9458-0440-4064-BFF6-295D9B92E663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605A9458-0440-4064-BFF6-295D9B92E663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605A9458-0440-4064-BFF6-295D9B92E663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2458D5B-C465-4B30-BD55-499886D3CCF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2458D5B-C465-4B30-BD55-499886D3CCF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2458D5B-C465-4B30-BD55-499886D3CCF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2458D5B-C465-4B30-BD55-499886D3CCF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {544AAC8E-9DB2-41C8-8F7C-1013ADEC220A}
+	EndGlobalSection
+EndGlobal
